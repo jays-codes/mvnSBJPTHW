@@ -30,8 +30,8 @@ Also show cases the 'Simple Logging Framework - slf4j'.</description>
 				<version>3.1</version>
 				<configuration>
 					<verbose>false</verbose>
-					<source>1.7</source>
-					<target>1.7</target>
+					<source>1.8</source>
+					<target>1.8</target>
 				</configuration>
 			</plugin>
 			<plugin>
